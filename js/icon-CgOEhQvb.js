@@ -1,0 +1,1 @@
+import{l as e}from"./install-D6-Yfg-L.js";import{D as t,T as n,b as r,d as i,l as a,p as o,u as s,y as c}from"./icon-B5PMf-F2.js";var l=e([String,Object,Function]),u={Close:o},d={Close:o,SuccessFilled:n,InfoFilled:c,WarningFilled:t,CircleCloseFilled:i},f={primary:c,success:n,warning:t,error:i,info:c},p={validating:r,success:a,error:s};export{l as a,p as i,d as n,f as r,u as t};

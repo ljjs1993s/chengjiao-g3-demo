@@ -1,0 +1,1 @@
+import{t as e}from"./_baseSet-BeA1b0qM.js";import{r as t}from"./use-locale-oLTimzMa.js";function n(t,n,r){return t==null?t:e(t,n,r)}var r=e=>Object.keys(e),i=e=>Object.entries(e),a=(e,r,i)=>({get value(){return t(e,r,i)},set value(t){n(e,r,t)}});export{a as n,r,i as t};

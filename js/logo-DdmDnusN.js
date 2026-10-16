@@ -1,0 +1,1 @@
+import{t as e}from"./preferences-CR8MQVqh.js";var t=`cj-dynamic-favicon`;function n(e){if(!e)return;let n=document.getElementById(t);n||(n=document.createElement(`link`),n.id=t,n.rel=`icon`,document.head.appendChild(n)),n.href=e}function r(){n(e.getPreferences().logo.source)}export{r as n,n as t};
